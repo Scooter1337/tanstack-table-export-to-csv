@@ -4,6 +4,7 @@
 > - export-to-csv
 >
 > Supports Light & Dark Mode
+> 
 > Columns are inferred, you only need to pass a subject and a table model!
 
 1. Add the `declare module "@tanstack/react-table"` from **react-table-module.ts**, to add dontExport and Name properties.
