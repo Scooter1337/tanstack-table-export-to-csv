@@ -11,7 +11,7 @@
 3. Add the **export-to-csv.tsx** component
 4. Use the component and pass in the tanstack-table object, and a subject for naming the export.
 5. Define a custom trigger as a child of the component, or use the default.
-6. 
+   
 That's it, you're done! You do not need to define any columns, it will all be inferred from your table model.
 Remember to add the 'dontExport: true' boolean to the meta of columns you don't want to end up in your csv!
 
