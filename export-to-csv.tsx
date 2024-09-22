@@ -55,7 +55,7 @@ export function ExportToCsv<TData>({ table, children, subject }: ExportProps<TDa
       <span className="sr-only sm:not-sr-only sm:whitespace-nowrap">
         Export
         {selected &&
-          ` ${table.getFilteredSelectedRowModel().rows.length} row${selectedRows > 1 ? "s" : ""}`}
+          ` ${table.getFilteredSelectedRowModel().rows.length} row${selectedRows !== 1 ? "s" : ""}`}
       </span>
     </Button>
   );
