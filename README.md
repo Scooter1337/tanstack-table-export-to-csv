@@ -9,5 +9,5 @@
 4. Use the component and pass in the tanstack-table object, and a subject for naming the export. 
 
 # Images
-<img width="460" src="https://github.com/user-attachments/assets/0f45838d-b906-4136-9214-a7fd17f6a3da">
-<img width="460" src="https://github.com/user-attachments/assets/7327c349-ef76-4a5f-bd56-d2f38e1854b5">
+<img width="400" src="https://github.com/user-attachments/assets/0f45838d-b906-4136-9214-a7fd17f6a3da">
+<img width="400" src="https://github.com/user-attachments/assets/7327c349-ef76-4a5f-bd56-d2f38e1854b5">
